@@ -1,3 +1,5 @@
 // 1) Para que serve o Local Storage? 
 
-// Serve para armazenar dados localmente no navegador, nos quais permanecem após fechar o window. 
+// O Local Storage serve para armazenar dados no navegador, onde é possível manipular os dados 
+// armazenados de diferentes maneiras, como definir um dado, consultar uma lista de dados salvá-los 
+// ou removê-los
