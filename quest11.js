@@ -1,0 +1,1 @@
+// 11) Escreva uma função que recebe dois parâmetros, um inteiro e um vetor, e encontre esse inteiro utilizando busca binária  
